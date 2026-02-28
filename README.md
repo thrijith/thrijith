@@ -12,14 +12,6 @@ I'm **Thrijith**, a Senior Web Engineer at [Fueled](https://fueled.com). I build
 - Contributing to the WordPress ecosystem
 - Exploring modern frontend architectures
 
-#### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=thrijith&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Thrijith's GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrijith&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
 
 #### Find me elsewhere
 
