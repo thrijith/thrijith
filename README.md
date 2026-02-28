@@ -1,33 +1,31 @@
-<h3 align="center">
-    Hey there 👋
-    <br />
-    <br />
-    Welcome to my GitHub profile
-</h3>
-<br />
-<br />
-<div align="center">
-    <a href="https://www.linkedin.com/in/thrijith/">
-        <img src="https://raw.githubusercontent.com/thrijith/thrijith/master/assets/linkedin.png" width=25px height=25px alt="Thrijith's LinkedIn Profile">
-    </a>&nbsp;
-    <a href="https://stackoverflow.com/users/4368718/3gth/">
-        <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.png" width=25px height=25px alt="Thrijith's Stack Overflow Profile">
-    </a>&nbsp;
-    <a href="mailto:thrijith13@gmail.com">
-        <img src="https://raw.githubusercontent.com/thrijith/thrijith/master/assets/gmail.png" width=30px height=25px alt="Thrijith's Email">
-    </a>&nbsp;
-    <a href="https://thrijith.com/">
-        <img src="https://raw.githubusercontent.com/thrijith/thrijith/master/assets/website.png" width=25px height=25px alt="Thrijith's Personal Blog">
-    </a>&nbsp;
-    <a href="https://profiles.wordpress.org/thrijith/">
-        <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width=25px height=25px alt="Thrijith's WordPres.org Profile">
-    </a>&nbsp;
-    <a href="http://dev.to/thrijith/">
-        <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thrijith's DEV Profile" width=25px height=25px>
-    </a>&nbsp;
-    <a href="https://twitter.com/3gth">
-        <img src="https://raw.githubusercontent.com/thrijith/thrijith/master/assets/twitter.png" width=25px height=25px alt="Thrijith's Twitter Profile">
-    </a>
-</div>
+### Hey there 👋
 
----
+I'm **Thrijith**, a Senior Web Engineer at [Fueled](https://fueled.com). I build performant, accessible, and scalable web experiences with WordPress and modern JavaScript.
+
+#### What I work with
+
+`PHP` `JavaScript` `WordPress` `Gutenberg` `React` `Headless WordPress` `GitHub Actions`
+
+#### What I'm into
+
+- Building headless WordPress solutions
+- Contributing to the WordPress ecosystem
+- Exploring modern frontend architectures
+
+#### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=thrijith&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Thrijith's GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrijith&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+#### Find me elsewhere
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrijith/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4368718/3gth/)
+[![WordPress](https://img.shields.io/badge/WordPress.org-21759B?style=flat&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/thrijith/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/thrijith/)
+[![Website](https://img.shields.io/badge/thrijith.com-000?style=flat&logo=safari&logoColor=white)](https://thrijith.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:thrijith13@gmail.com)
