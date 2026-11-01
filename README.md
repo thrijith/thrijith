@@ -8,11 +8,6 @@ Senior Web Engineer at [Fueled](https://fueled.com). I mostly work on production
 
 #### How I use AI
 
-Claude Code is part of my daily work. I direct it, and I review everything it produces.
-
-- **Plan first:** Claude reads the code and docs, then proposes a plan. It writes nothing until I approve.
-- **Rules and guardrails:** my `CLAUDE.md` sets the coding standards. Hooks enforce them: they block chained shell commands and start a cleanup review after larger edits.
-- **Verified security reviews:** I run multi-agent audits on my own repos. Separate agents check each finding before I fix it.
-- **Custom MCP tools:** I built [wp-snapshot-tools](https://github.com/thrijith/wp-snapshot-tools), a Local WP addon that lets Claude Code and other MCP clients manage WordPress database snapshots.
+I use Claude Code daily. I approve a plan before it writes code, my `CLAUDE.md` and hooks hold it to best practices, and I review what it produces. I also built [wp-snapshot-tools](https://github.com/thrijith/wp-snapshot-tools), which lets Claude Code and other MCP clients manage WordPress database snapshots.
 
 [thrijith.com](https://thrijith.com/) · [LinkedIn](https://www.linkedin.com/in/thrijith/) · [WordPress.org](https://profiles.wordpress.org/thrijith/) · [Stack Overflow](https://stackoverflow.com/users/4368718/3gth/) · [DEV.to](https://dev.to/thrijith/) · [Email](mailto:thrijith13@gmail.com)
