@@ -11,7 +11,7 @@ Senior Web Engineer at [Fueled](https://fueled.com). I mostly work on production
 Claude Code is part of my daily work. I direct it, and I review everything it produces.
 
 - **Plan first:** Claude reads the code and docs, then proposes a plan. It writes nothing until I approve.
-- **Rules and guardrails:** my `CLAUDE.md` asks for small diffs, the existing code style and a dead-code check on every change. Hooks block risky shell commands.
+- **Rules and guardrails:** my `CLAUDE.md` sets the coding standards. Hooks enforce them: they block chained shell commands and start a cleanup review after larger edits.
 - **Verified security reviews:** I run multi-agent audits on my own repos. Separate agents check each finding before I fix it.
 - **Custom MCP tools:** I built [wp-snapshot-tools](https://github.com/thrijith/wp-snapshot-tools), a Local WP addon that lets Claude Code and other MCP clients manage WordPress database snapshots.
 
